@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Automation/ApiAutomation_RestAssured">
+        <classes>
+            <class name="com.NeelamKumari.ex02_RA_TestNG_AllureReport.APITest005_TC_TestNG_fix">
+
+            </class>
+        </classes>
+    </test>
+</suite>
